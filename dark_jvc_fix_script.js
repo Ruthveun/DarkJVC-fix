@@ -3150,7 +3150,7 @@
 	"    color: #e7e7e7;",
 	"}",
 	"",
-	"/* Maître d\'hôtel, le thème DarkJVC de la table 55 est prêt, c\'est chaud on enlève */"
+	"/* Maître d\'hôtel, le thème DarkJVC de la table 55 est prêt c\'est chaud on enlève */"
 ].join("\n");
 if (typeof GM_addStyle != "undefined") {
 	GM_addStyle(css);
